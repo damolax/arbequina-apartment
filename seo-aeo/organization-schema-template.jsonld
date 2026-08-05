@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Arbequina Apartment",
+  "url": "https://REPLACE-WITH-DOMAIN.example/",
+  "logo": "https://REPLACE-WITH-DOMAIN.example/logo.png",
+  "email": "REPLACE-WITH-PUBLIC-EMAIL",
+  "sameAs": [
+    "REPLACE-WITH-INSTAGRAM-URL",
+    "REPLACE-WITH-FACEBOOK-URL"
+  ]
+}
+</script>

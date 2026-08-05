@@ -1,0 +1,17 @@
+:root {
+  --font-color-default: #465047;
+  --font-color-label: #465047;
+  --font-color-input: #17221c;
+  --font-color-icons: #b9684b;
+  --font-color-input-icons: #b9684b;
+  --font-color-headlines: #17221c;
+  --font-color-error: #b42318;
+  --font-color-black: #17221c;
+  --border-radius: 10px;
+  --border-width: 1px;
+  --border-color-default: #d8cec3;
+  --border-color-container: #e8dfd4;
+  --border-color-input: #d8cec3;
+  --button-color-primary: #b9684b;
+  --button-color-secondary: #ffffff;
+}
